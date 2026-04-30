@@ -1,36 +1,148 @@
 {
-  "banner": [
-    {
-      "id": 1,
-      "title": "Upgrade Your Skills Today 🚀",
-      "description": "SkillSphere-er sathe shuru korun apnar programming journey. Master koren React, Next.js ebong modern backend technologies real-world project-er madhyome.",
-      "button_text": "Start Learning",
-      "button_color": "#00E5FF",
-      "image": "https://i.pinimg.com/1200x/2e/d0/37/2ed037bdea2e0af0a5a0bc95ee8f5252.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Learn from Industry Experts 💡",
-      "description": "Senior developers-der kach theke shikhen best coding practices ebong clean code architecture. SkillSphere-e amra provide kori industry-standard mentorship.",
-      "button_text": "Join Community",
-      "button_color": "#7000FF",
-      "image": "https://i.pinimg.com/736x/8d/0b/4b/8d0b4bb01c4b9257b39d86106f8e3549.jpg"
-    },
-    {
-      "id": 3,
-      "title": "Master Modern UI/UX Trends ✨",
-      "description": "Visual design-e niye ashen natun matra. Glassmorphism theke Bento layouts—shikhun kivabe professional ebong aesthetically pleasing interface create korte hoy.",
-      "button_text": "Explore Design",
-      "button_color": "#FF007A",
-      "image": "https://i.pinimg.com/1200x/7a/0b/27/7a0b27f272e314df37d4ed88448f0a1b.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Build a Career-Ready Portfolio 🏗️",
-      "description": "Sudhu shikhlei hbe na, proman korte hbe. SkillSphere-e join kore build koren high-quality fintech ebong management projects ja apnake job market-e agiye rakhbe.",
-      "button_text": "View Projects",
-      "button_color": "#0096FF",
-      "image": "https://i.pinimg.com/1200x/61/ba/f1/61baf113e8c2e798d4bec4a783a9229c.jpg"
-    }
-  ]
+    "banner": [
+        {
+            "id": 1,
+            "title": "Upgrade Your Skills Today 🚀",
+            "description": "SkillSphere-er sathe shuru korun apnar programming journey. Master koren React, Next.js ebong modern backend technologies real-world project-er madhyome.",
+            "button_text": "Start Learning",
+            "button_color": "#00E5FF",
+            "image": "https://i.pinimg.com/1200x/2e/d0/37/2ed037bdea2e0af0a5a0bc95ee8f5252.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Learn from Industry Experts 💡",
+            "description": "Senior developers-der kach theke shikhen best coding practices ebong clean code architecture. SkillSphere-e amra provide kori industry-standard mentorship.",
+            "button_text": "Join Community",
+            "button_color": "#7000FF",
+            "image": "https://i.pinimg.com/736x/8d/0b/4b/8d0b4bb01c4b9257b39d86106f8e3549.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Master Modern UI/UX Trends ✨",
+            "description": "Visual design-e niye ashen natun matra. Glassmorphism theke Bento layouts—shikhun kivabe professional ebong aesthetically pleasing interface create korte hoy.",
+            "button_text": "Explore Design",
+            "button_color": "#FF007A",
+            "image": "https://i.pinimg.com/1200x/7a/0b/27/7a0b27f272e314df37d4ed88448f0a1b.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Build a Career-Ready Portfolio 🏗️",
+            "description": "Sudhu shikhlei hbe na, proman korte hbe. SkillSphere-e join kore build koren high-quality fintech ebong management projects ja apnake job market-e agiye rakhbe.",
+            "button_text": "View Projects",
+            "button_color": "#0096FF",
+            "image": "https://i.pinimg.com/1200x/61/ba/f1/61baf113e8c2e798d4bec4a783a9229c.jpg"
+        }
+    ],
+    "courses": [
+        {
+            "id": 1,
+            "title": "Next.js 14 Mastery",
+            "instructor": "Sarah Jenkins",
+            "duration": "15 hours",
+            "rating": 4.9,
+            "level": "Advanced",
+            "description": "Master App Router, Server Actions, and high-performance rendering.",
+            "image": "https://i.pinimg.com/736x/e9/20/81/e92081263f620e23a2a243e031324301.jpg",
+            "category": "Development"
+        },
+        {
+            "id": 2,
+            "title": "Glassmorphism UI",
+            "instructor": "Alex Rivera",
+            "duration": "10 hours",
+            "rating": 4.7,
+            "level": "Intermediate",
+            "description": "Design modern interfaces using transparency and blur effects.",
+            "image": "https://i.pinimg.com/736x/96/9e/fe/969efe8088eac3d4ef86498a95612295.jpg",
+            "category": "Design"
+        },
+        {
+            "id": 3,
+            "title": "MERN Stack BootCamp",
+            "instructor": "Rahat Islam",
+            "duration": "45 hours",
+            "rating": 4.8,
+            "level": "Beginner",
+            "description": "Full-stack development with MongoDB, Express, React, and Node.",
+            "image": "https://i.pinimg.com/736x/2e/c1/be/2ec1beb12df88032782f21992408e3ae.jpg",
+            "category": "Development"
+        },
+        {
+            "id": 4,
+            "title": "TypeScript Guide",
+            "instructor": "Emily Chen",
+            "duration": "12 hours",
+            "rating": 4.6,
+            "level": "Intermediate",
+            "description": "Scale your React apps with robust type-safety and interfaces.",
+            "image": "https://i.pinimg.com/1200x/93/db/09/93db09835762c928af82ec640f2066f8.jpg",
+            "category": "Development"
+        },
+        {
+            "id": 5,
+            "title": "Prompt Engineering",
+            "instructor": "David Vance",
+            "duration": "8 hours",
+            "rating": 4.9,
+            "level": "Beginner",
+            "description": "Learn to communicate with AI for better code and art generation.",
+            "image": "https://i.pinimg.com/1200x/33/82/fe/3382fe9282b9cad511747e8bd5576aba.jpg",
+            "category": "AI"
+        },
+        {
+            "id": 6,
+            "title": "Redux Toolkit",
+            "instructor": "Michael Scott",
+            "duration": "14 hours",
+            "rating": 4.5,
+            "level": "Intermediate",
+            "description": "Manage global state efficiently with RTK and RTK Query.",
+            "image": "https://i.pinimg.com/736x/63/f6/dc/63f6dc556fa718104e2b368195edec47.jpg",
+            "category": "Development"
+        },
+        {
+            "id": 7,
+            "title": "Bento Grid Design",
+            "instructor": "Sophia Lee",
+            "duration": "6 hours",
+            "rating": 4.8,
+            "level": "Intermediate",
+            "description": "Build organized and trendy Bento-style layouts for web apps.",
+            "image": "https://i.pinimg.com/736x/c1/9b/df/c19bdf7faf4a64f70198af8b1466887f.jpg",
+            "category": "Design"
+        },
+        {
+            "id": 8,
+            "title": "Tailwind CSS Pro",
+            "instructor": "Jason Bourne",
+            "duration": "10 hours",
+            "rating": 4.7,
+            "level": "Beginner",
+            "description": "Rapidly build responsive and custom designs without leaving HTML.",
+            "image": "https://i.pinimg.com/1200x/83/fd/73/83fd732e0d6c6ecc44f52eadbd7a30b5.jpg",
+            "category": "Development"
+        },
+        {
+            "id": 9,
+            "title": "Node.js Backend",
+            "instructor": "Karim Ahmed",
+            "duration": "25 hours",
+            "rating": 4.6,
+            "level": "Advanced",
+            "description": "Build secure and scalable RESTful APIs with Node and Express.",
+            "image": "https://i.pinimg.com/736x/cc/e7/03/cce703c3e4aa11fd20a69972c0a19945.jpg",
+            "category": "Development"
+        },
+        {
+            "id": 10,
+            "title": "Python for Data",
+            "instructor": "Dr. Angela Yu",
+            "duration": "30 hours",
+            "rating": 4.9,
+            "level": "Beginner",
+            "description": "Start your data science journey with Python and Pandas.",
+            "image": "https://i.pinimg.com/1200x/17/3e/e0/173ee0eb290de65a6797e654d3040586.jpg",
+            "category": "Data Science"
+        }
+    ]
 }
