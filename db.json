@@ -203,7 +203,7 @@
             }
         }
     ],
-    "newCourses": [
+    "new-courses": [
         {
             "id": 1,
             "title": "Better-Auth Integration",
