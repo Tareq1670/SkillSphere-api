@@ -1,32 +1,36 @@
 {
-    "banner": [
-        {
-            "id": 1,
-            "title": "Upgrade Your Skills Today 🚀",
-            "description": "SkillSphere-er sathe shuru korun apnar programming journey. Master koren React, Next.js ebong modern backend technologies real-world project-er madhyome.",
-            "button_text": "Start Learning",
-            "button_color": "#00E5FF"
-        },
-        {
-            "id": 2,
-            "title": "Learn from Industry Experts 💡",
-            "description": "Senior developers-der kach theke shikhen best coding practices ebong clean code architecture. SkillSphere-e amra provide kori industry-standard mentorship.",
-            "button_text": "Join Community",
-            "button_color": "#7000FF"
-        },
-        {
-            "id": 3,
-            "title": "Master Modern UI/UX Trends ✨",
-            "description": "Visual design-e niye ashen natun matra. Glassmorphism theke Bento layouts—shikhun kivabe professional ebong aesthetically pleasing interface create korte hoy.",
-            "button_text": "Explore Design",
-            "button_color": "#FF007A"
-        },
-        {
-            "id": 4,
-            "title": "Build a Career-Ready Portfolio 🏗️",
-            "description": "Sudhu shikhlei hbe na, proman korte hbe. SkillSphere-e join kore build koren high-quality fintech ebong management projects ja apnake job market-e agiye rakhbe.",
-            "button_text": "View Projects",
-            "button_color": "#CCFF00"
-        }
-    ]
+  "banner": [
+    {
+      "id": 1,
+      "title": "Upgrade Your Skills Today 🚀",
+      "description": "SkillSphere-er sathe shuru korun apnar programming journey. Master koren React, Next.js ebong modern backend technologies real-world project-er madhyome.",
+      "button_text": "Start Learning",
+      "button_color": "#00E5FF",
+      "image": "https://i.pinimg.com/1200x/2e/d0/37/2ed037bdea2e0af0a5a0bc95ee8f5252.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Learn from Industry Experts 💡",
+      "description": "Senior developers-der kach theke shikhen best coding practices ebong clean code architecture. SkillSphere-e amra provide kori industry-standard mentorship.",
+      "button_text": "Join Community",
+      "button_color": "#7000FF",
+      "image": "https://i.pinimg.com/736x/8d/0b/4b/8d0b4bb01c4b9257b39d86106f8e3549.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Master Modern UI/UX Trends ✨",
+      "description": "Visual design-e niye ashen natun matra. Glassmorphism theke Bento layouts—shikhun kivabe professional ebong aesthetically pleasing interface create korte hoy.",
+      "button_text": "Explore Design",
+      "button_color": "#FF007A",
+      "image": "https://i.pinimg.com/1200x/7a/0b/27/7a0b27f272e314df37d4ed88448f0a1b.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Build a Career-Ready Portfolio 🏗️",
+      "description": "Sudhu shikhlei hbe na, proman korte hbe. SkillSphere-e join kore build koren high-quality fintech ebong management projects ja apnake job market-e agiye rakhbe.",
+      "button_text": "View Projects",
+      "button_color": "#CCFF00",
+      "image": "https://i.pinimg.com/1200x/61/ba/f1/61baf113e8c2e798d4bec4a783a9229c.jpg"
+    }
+  ]
 }
