@@ -202,5 +202,43 @@
                 "twitter": "https://twitter.com/emily_codes"
             }
         }
+    ],
+    "newCourses": [
+        {
+            "id": 1,
+            "title": "Better-Auth Integration",
+            "instructor": "Rahat Islam",
+            "duration": "5 hours",
+            "rating": 4.9,
+            "level": "Intermediate",
+            "description": "Implement modern authentication and security in your Next.js apps.",
+            "image": "https://blog.openreplay.com/images/betterauth-explained-rapid-developer-adoption/images/hero.png",
+            "category": "Development",
+            "tag": "Trending"
+        },
+        {
+            "id": 2,
+            "title": "Bento Grid Mastery",
+            "instructor": "Alex Rivera",
+            "duration": "7 hours",
+            "rating": 4.8,
+            "level": "Beginner",
+            "description": "Create professional layouts following the latest web design trends.",
+            "image": "https://media.licdn.com/dms/image/v2/D5612AQFzclgkS7BT_Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709731450593?e=2147483647&v=beta&t=52j7igWNuumePNwl8UFoGvHanBWY0ZLLNoQTZ9EEwe8",
+            "category": "Design",
+            "tag": "New Release"
+        },
+        {
+            "id": 3,
+            "title": "AI Art Generation",
+            "instructor": "David Vance",
+            "duration": "10 hours",
+            "rating": 4.7,
+            "level": "Beginner",
+            "description": "Master AI tools to create stunning digital art and assets.",
+            "image": "https://i.pinimg.com/736x/4b/d0/f8/4bd0f88b657d03346dbe2138f505f4db.jpg",
+            "category": "AI",
+            "tag": "Trending"
+        }
     ]
 }
