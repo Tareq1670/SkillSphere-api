@@ -144,5 +144,63 @@
             "image": "https://i.pinimg.com/1200x/17/3e/e0/173ee0eb290de65a6797e654d3040586.jpg",
             "category": "Data Science"
         }
+    ],
+    "instructors": [
+        {
+            "id": 1,
+            "name": "Sarah Jenkins",
+            "role": "Next.js & React Expert",
+            "total_students": "12k+",
+            "total_courses": 8,
+            "rating": 4.9,
+            "bio": "Specializing in high-performance web applications and Server Actions.",
+            "image": "https://i.pinimg.com/736x/b6/a8/3d/b6a83d37b91445675c535c18062731c6.jpg",
+            "socials": {
+                "github": "https://github.com/sarah-j",
+                "linkedin": "https://linkedin.com/in/sarah-j"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Alex Rivera",
+            "role": "UI/UX & Visual Designer",
+            "total_students": "8k+",
+            "total_courses": 5,
+            "rating": 4.8,
+            "bio": "Focused on creating immersive interfaces with Glassmorphism and Bento styles.",
+            "image": "https://i.pinimg.com/736x/12/ef/89/12ef890cd12a5470e812ca96a5fac1d8.jpg",
+            "socials": {
+                "dribbble": "https://dribbble.com/alex-design",
+                "linkedin": "https://linkedin.com/in/alex-r"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Rahat Islam",
+            "role": "Full-Stack Developer",
+            "total_students": "15k+",
+            "total_courses": 12,
+            "rating": 4.9,
+            "bio": "MERN stack enthusiast dedicated to building scalable and secure ecosystems.",
+            "image": "https://i.pinimg.com/1200x/2a/82/f3/2a82f320f66fad61b1f473339828597d.jpg",
+            "socials": {
+                "github": "https://github.com/rahat-dev",
+                "linkedin": "https://linkedin.com/in/rahat-i"
+            }
+        },
+        {
+            "id": 4,
+            "name": "Emily Chen",
+            "role": "TypeScript Specialist",
+            "total_students": "10k+",
+            "total_courses": 6,
+            "rating": 4.7,
+            "bio": "Helping developers bridge the gap between JavaScript and robust Type-safety.",
+            "image": "https://i.pinimg.com/1200x/26/a8/ed/26a8ed5015832fd4cbac962a853c4453.jpg",
+            "socials": {
+                "github": "https://github.com/emily-c",
+                "twitter": "https://twitter.com/emily_codes"
+            }
+        }
     ]
 }
