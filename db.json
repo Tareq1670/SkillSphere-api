@@ -143,6 +143,28 @@
             "description": "Start your data science journey with Python and Pandas.",
             "image": "https://i.pinimg.com/1200x/17/3e/e0/173ee0eb290de65a6797e654d3040586.jpg",
             "category": "Data Science"
+        },
+        {
+            "id": 11,
+            "title": "Docker & Kubernetes",
+            "instructor": "Marcus Aurelius",
+            "duration": "20 hours",
+            "rating": 4.8,
+            "level": "Advanced",
+            "description": "Master containerization and orchestration for modern cloud applications.",
+            "image": "https://i.pinimg.com/1200x/c2/2b/18/c22b1856a4bfa4bb4633bf7a0828ffc9.jpg",
+            "category": "DevOps"
+        },
+        {
+            "id": 12,
+            "title": "Figma Advanced Pro",
+            "instructor": "Leo DaVinci",
+            "duration": "18 hours",
+            "rating": 4.9,
+            "level": "Intermediate",
+            "description": "Master auto-layout, components, and interactive prototyping in Figma.",
+            "image": "https://i.pinimg.com/1200x/99/48/53/994853d921632093175096ff628133bc.jpg",
+            "category": "Design"
         }
     ],
     "instructors": [
