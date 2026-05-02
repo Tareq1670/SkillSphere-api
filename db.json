@@ -262,5 +262,223 @@
             "category": "AI",
             "tag": "Trending"
         }
+    ],
+    "courses_details": [
+        {
+            "id": 1,
+            "title": "Next.js 14 Mastery",
+            "instructor": "Sarah Jenkins",
+            "duration": "15 hours",
+            "rating": 4.9,
+            "level": "Advanced",
+            "category": "Development",
+            "image": "https://i.pinimg.com/736x/e9/20/81/e92081263f620e23a2a243e031324301.jpg",
+            "description": "Dive deep into Next.js 14 and master modern full-stack React development. This course covers App Router, Server Actions, advanced data fetching strategies, and performance optimization techniques. You'll learn how to build scalable, production-ready applications with SEO optimization, authentication, and deployment best practices.",
+            "whatYouWillLearn": [
+                "App Router architecture",
+                "Server Actions & API handling",
+                "SSR, SSG, ISR concepts",
+                "Authentication & middleware",
+                "Performance optimization"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Glassmorphism UI",
+            "instructor": "Alex Rivera",
+            "duration": "10 hours",
+            "rating": 4.7,
+            "level": "Intermediate",
+            "category": "Design",
+            "image": "https://i.pinimg.com/736x/96/9e/fe/969efe8088eac3d4ef86498a95612295.jpg",
+            "description": "Learn how to design stunning modern interfaces using the glassmorphism trend. This course teaches transparency, blur effects, layered UI, and color harmony to create premium-looking designs. You'll also implement designs using CSS and Tailwind for real-world applications.",
+            "whatYouWillLearn": [
+                "Glassmorphism principles",
+                "Blur & transparency effects",
+                "UI layering techniques",
+                "Color & contrast design",
+                "Responsive UI design"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "MERN Stack BootCamp",
+            "instructor": "Rahat Islam",
+            "duration": "45 hours",
+            "rating": 4.8,
+            "level": "Beginner",
+            "category": "Development",
+            "image": "https://i.pinimg.com/736x/2e/c1/be/2ec1beb12df88032782f21992408e3ae.jpg",
+            "description": "Start your journey as a full-stack developer with the MERN stack. You'll learn MongoDB, Express, React, and Node.js from scratch and build complete web applications including authentication systems, dashboards, and REST APIs.",
+            "whatYouWillLearn": [
+                "MongoDB database design",
+                "Express.js backend development",
+                "React frontend development",
+                "Node.js server setup",
+                "Full-stack project building"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "TypeScript Guide",
+            "instructor": "Emily Chen",
+            "duration": "12 hours",
+            "rating": 4.6,
+            "level": "Intermediate",
+            "category": "Development",
+            "image": "https://i.pinimg.com/1200x/93/db/09/93db09835762c928af82ec640f2066f8.jpg",
+            "description": "Take your JavaScript skills to the next level with TypeScript. Learn how to use types, interfaces, generics, and advanced patterns to build scalable and maintainable React applications.",
+            "whatYouWillLearn": [
+                "TypeScript basics & setup",
+                "Interfaces & types",
+                "Generics & utility types",
+                "Type-safe React apps",
+                "Error handling"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Prompt Engineering",
+            "instructor": "David Vance",
+            "duration": "8 hours",
+            "rating": 4.9,
+            "level": "Beginner",
+            "category": "AI",
+            "image": "https://i.pinimg.com/1200x/33/82/fe/3382fe9282b9cad511747e8bd5576aba.jpg",
+            "description": "Learn how to effectively communicate with AI tools like ChatGPT to generate high-quality content, code, and designs. This course teaches structured prompting, optimization techniques, and real-world use cases.",
+            "whatYouWillLearn": [
+                "Prompt structure",
+                "AI response optimization",
+                "Content generation",
+                "Code generation",
+                "Real-world use cases"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Redux Toolkit",
+            "instructor": "Michael Scott",
+            "duration": "14 hours",
+            "rating": 4.5,
+            "level": "Intermediate",
+            "category": "Development",
+            "image": "https://i.pinimg.com/736x/63/f6/dc/63f6dc556fa718104e2b368195edec47.jpg",
+            "description": "Master global state management using Redux Toolkit and RTK Query. Learn how to simplify Redux logic, manage API calls, and build scalable state architecture in React applications.",
+            "whatYouWillLearn": [
+                "Redux Toolkit basics",
+                "Slices & store setup",
+                "RTK Query",
+                "Async state handling",
+                "Best practices"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Bento Grid Design",
+            "instructor": "Sophia Lee",
+            "duration": "6 hours",
+            "rating": 4.8,
+            "level": "Intermediate",
+            "category": "Design",
+            "image": "https://i.pinimg.com/736x/c1/9b/df/c19bdf7faf4a64f70198af8b1466887f.jpg",
+            "description": "Learn how to design modern and structured layouts using Bento Grid systems. This course focuses on spacing, alignment, and modular UI design techniques for web apps.",
+            "whatYouWillLearn": [
+                "Bento grid layout system",
+                "UI spacing & alignment",
+                "Component structuring",
+                "Modern UI trends",
+                "Responsive layouts"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Tailwind CSS Pro",
+            "instructor": "Jason Bourne",
+            "duration": "10 hours",
+            "rating": 4.7,
+            "level": "Beginner",
+            "category": "Development",
+            "image": "https://i.pinimg.com/1200x/83/fd/73/83fd732e0d6c6ecc44f52eadbd7a30b5.jpg",
+            "description": "Build modern, responsive websites quickly using Tailwind CSS. Learn utility-first styling, responsive design, and custom component creation without writing traditional CSS.",
+            "whatYouWillLearn": [
+                "Tailwind fundamentals",
+                "Responsive design",
+                "Custom components",
+                "Dark mode",
+                "Optimization"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Node.js Backend",
+            "instructor": "Karim Ahmed",
+            "duration": "25 hours",
+            "rating": 4.6,
+            "level": "Advanced",
+            "category": "Development",
+            "image": "https://i.pinimg.com/736x/cc/e7/03/cce703c3e4aa11fd20a69972c0a19945.jpg",
+            "description": "Learn how to build secure and scalable backend systems using Node.js and Express. This course covers REST APIs, authentication, database integration, and deployment strategies.",
+            "whatYouWillLearn": [
+                "REST API development",
+                "Authentication & JWT",
+                "Database integration",
+                "Security practices",
+                "Deployment"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Python for Data",
+            "instructor": "Dr. Angela Yu",
+            "duration": "30 hours",
+            "rating": 4.9,
+            "level": "Beginner",
+            "category": "Data Science",
+            "image": "https://i.pinimg.com/1200x/17/3e/e0/173ee0eb290de65a6797e654d3040586.jpg",
+            "description": "Start your data science journey using Python. Learn data analysis, visualization, and manipulation using libraries like Pandas and NumPy.",
+            "whatYouWillLearn": [
+                "Python basics",
+                "Pandas & NumPy",
+                "Data cleaning",
+                "Visualization",
+                "Real-world datasets"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Docker & Kubernetes",
+            "instructor": "Marcus Aurelius",
+            "duration": "20 hours",
+            "rating": 4.8,
+            "level": "Advanced",
+            "category": "DevOps",
+            "image": "https://i.pinimg.com/1200x/c2/2b/18/c22b1856a4bfa4bb4633bf7a0828ffc9.jpg",
+            "description": "Master containerization and orchestration using Docker and Kubernetes. Learn how to deploy, scale, and manage modern cloud applications efficiently.",
+            "whatYouWillLearn": [
+                "Docker basics",
+                "Containerization",
+                "Kubernetes setup",
+                "Deployment strategies",
+                "Scaling applications"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Figma Advanced Pro",
+            "instructor": "Leo DaVinci",
+            "duration": "18 hours",
+            "rating": 4.9,
+            "level": "Intermediate",
+            "category": "Design",
+            "image": "https://i.pinimg.com/1200x/99/48/53/994853d921632093175096ff628133bc.jpg",
+            "description": "Become a pro in Figma by mastering advanced tools like auto-layout, components, and interactive prototyping. Build real-world UI/UX projects.",
+            "whatYouWillLearn": [
+                "Auto layout",
+                "Components & variants",
+                "Prototyping",
+                "Design systems",
+                "Collaboration"
+            ]
+        }
     ]
 }
